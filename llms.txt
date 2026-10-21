@@ -1,0 +1,30 @@
+# PotsunGarden
+
+> Printable PDF guides for growing food in pots on a balcony, terrace or windowsill, for complete beginners in any climate (mild, temperate, cold winters; both hemispheres). Metric and imperial units. Growing advice is checked against the RHS and university extension services; each guide page lists its sources.
+
+PotsunGarden is a small publisher of beginner balcony gardening guides. The free guides below are plain HTML pages; the products are digital PDF downloads sold on Payhip (nothing is shipped).
+
+## Guides
+
+- [Pot sizes for vegetables on a balcony: a chart for 12 easy crops](https://potsungarden.github.io/pot-sizes-for-balcony-vegetables.html): Smallest pot, depth of potting mix, plants per pot and sun hours for 12 easy balcony crops, in litres and gallons, cm and inches. Plus drainage and weight tips.
+- [How many hours of sun does your balcony get, and what can you grow?](https://potsungarden.github.io/balcony-sun-hours-what-to-grow.html): Count the hours of direct sun on your balcony in two days, then match crops to it: what grows with 6+, 4–6, 3–4 or under 3 hours of sun.
+- [Growing lettuce in pots: cut-and-come-again salad on a balcony](https://potsungarden.github.io/growing-lettuce-in-pots.html): How to sow, water and cut loose-leaf lettuce in pots so it regrows for more salad: pot size, sun, timing, bolting and slug fixes for balcony growers.
+- [Winter vegetables in pots: six easy crops for an autumn and winter balcony](https://potsungarden.github.io/winter-vegetables-in-pots.html): Rocket, lettuce, radishes, spinach, mizuna and pea shoots: what to sow in autumn for winter salads in pots, plus watering, frost and what to expect in December.
+- [Container gardening for beginners: your first 7 days](https://potsungarden.github.io/container-gardening-for-beginners-first-7-days.html): A calm first week for a new balcony garden: map your sun, find your frost date, choose 4–6 crops, buy the right pots and mix, and fill them. One task a day.
+
+## Products
+
+- [FREE Week 1: Get Your Balcony Ready](https://payhip.com/b/mtjgL): free (€0). Free 8-page PDF (A4 and US Letter), Week 1 of Balcony in 4 Weeks: pot sizes for 12 easy crops, a sun map, climate and frost dates, and a 7-step checklist. An email address is required at checkout.
+- [Balcony in 4 Weeks (2nd Edition)](https://payhip.com/b/ZfLyM): €9 (excl. VAT). 36-page beginner's guide to growing salads, herbs, beans and cherry tomatoes in pots on a balcony (A4 and US Letter PDFs): weekly lessons and checklists, 12 crop cards, a calendar by climate and 15 common problems and fixes.
+- [Balcony in 4 Weeks — Italiano](https://payhip.com/b/owpAu): €9 (excl. VAT). Italian edition: a four-week starter path for a balcony vegetable garden, PDFs in A4 and US Letter with 4 weekly checklists, 5 recipes and a glossary.
+- [Autumn & Winter Balcony Starter](https://payhip.com/b/qbn6X): €4 (excl. VAT). 10-page A4 PDF: six easy plants to sow in autumn (rocket, lettuce, radishes, baby spinach, mizuna, pea shoots), a printable October-to-February calendar and quick fixes.
+
+## Reference
+
+- [Pot sizes and sun hours, plain text](https://potsungarden.github.io/llms-full.txt): the minimum pot size chart for 12 crops and the sun-hours scale, with sources.
+
+## Optional
+
+- [About PotsunGarden](https://potsungarden.github.io/about.html): what PotsunGarden makes and how the guides are written.
+- [Payhip store](https://payhip.com/PotsunGarden): all products.
+- [Pinterest](https://www.pinterest.com/potsungarden/)

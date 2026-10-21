@@ -1,0 +1,40 @@
+# PotsunGarden: pot sizes and sun hours for balcony vegetables
+
+> Printable PDF guides for growing food in pots on a balcony, terrace or windowsill, for complete beginners in any climate (mild, temperate, cold winters; both hemispheres). Metric and imperial units. Growing advice is checked against the RHS and university extension services; each guide page lists its sources.
+
+Plain-text copy of the reference tables on https://potsungarden.github.io/pot-sizes-for-balcony-vegetables.html and https://potsungarden.github.io/balcony-sun-hours-what-to-grow.html. Last updated 2026-10-20.
+
+## Minimum pot size per crop
+
+These are minimums for one pot; bigger pots dry out more slowly. Where sources disagree, the larger figure is used, rounded to common pot sizes.
+
+- Rocket (arugula): Smallest pot: 8 L (2 gal), or a windowbox/trough | Depth of mix: 15 cm (6 in) | How many per pot: Thin to 10–15 cm (4–6 in) | Direct sun: 3–6 h | Start from: Seed
+- Loose-leaf lettuce: Smallest pot: 8 L (2 gal); troughs ideal | Depth of mix: 15 cm (6 in) | How many per pot: 3–4 per 30 cm (12 in) pot | Direct sun: 3–6 h | Start from: Seed or plugs
+- Spinach: Smallest pot: 8 L (2 gal) | Depth of mix: 20 cm (8 in) | How many per pot: 4–6 per 30 cm (12 in) pot | Direct sun: 3–6 h | Start from: Seed
+- Radish: Smallest pot: 8 L (2 gal) | Depth of mix: 15 cm (6 in) | How many per pot: 2.5–5 cm (1–2 in) apart | Direct sun: 4–6 h | Start from: Seed
+- Peas, dwarf: Smallest pot: 15 L (4 gal) | Depth of mix: 25 cm (10 in) | How many per pot: 7.5 cm (3 in) apart | Direct sun: 4–6+ h | Start from: Seed
+- Dwarf beans: Smallest pot: 20 L (5 gal) | Depth of mix: 30 cm (12 in) | How many per pot: 3–4 per 30 cm (12 in) pot | Direct sun: 6+ h | Start from: Seed
+- Basil: Smallest pot: 8 L (2 gal) | Depth of mix: 20 cm (8 in) | How many per pot: 1–3 plants | Direct sun: 6+ h | Start from: Plant or seed
+- Parsley: Smallest pot: 20 L (5 gal) | Depth of mix: 25 cm (10 in) | How many per pot: 1–2 plants | Direct sun: 3–6 h | Start from: Plant (seed is slow)
+- Chives: Smallest pot: 8 L (2 gal) | Depth of mix: 20 cm (8 in) | How many per pot: 1 clump | Direct sun: 3–6 h | Start from: Plant or seed
+- Mint: Smallest pot: 8 L (2 gal), own pot | Depth of mix: 20 cm (8 in) | How many per pot: 1 plant, its own pot | Direct sun: 3–6 h | Start from: Plant
+- Cherry tomato: Smallest pot: Bush 20 L (5 gal); tall 30–40 L (8–10 gal) | Depth of mix: Bush 30 cm (12 in); tall 30–40 cm (12–16 in) | How many per pot: 1 plant | Direct sun: 6–8 h | Start from: Plant
+- Chilli: Smallest pot: 20 L (5 gal) | Depth of mix: 30 cm (12 in) | How many per pot: 1 plant | Direct sun: 6–8 h | Start from: Plant
+
+Sources for the pot sizes:
+- University of Wisconsin–Madison Extension: Growing vegetables in containers: https://hort.extension.wisc.edu/articles/growing-vegetables-containers/
+- University of Maryland Extension: Types of containers for growing vegetables: https://extension.umd.edu/resource/types-containers-growing-vegetables
+- University of Maryland Extension: Growing vegetables in containers and salad tables: https://extension.umd.edu/resource/growing-vegetables-containers-and-salad-tables
+- RHS: How to grow radishes: https://www.rhs.org.uk/vegetables/radishes/grow-your-own
+
+## Direct sun per day and what grows well
+
+- 6 hours or more: Everything in our guide. The only place where tomatoes, chillies, beans and basil crop well.
+- 4–6 hours: Radishes, peas (a lighter crop), all salads and herbs. A compact cherry tomato may give a small crop.
+- 3–4 hours: Lettuce, rocket, spinach, parsley, chives, mint.
+- Under 3 hours: Mint, chives and parsley, slowly. Grow pea shoots and microgreens on the brightest windowsill.
+
+Rule of thumb: fruiting crops (tomatoes, chillies, beans) need 6 hours of direct sun or more; radishes and peas want 4–6; leafy crops and most herbs manage with 3–4. Count only direct sun on the spot where the pot stands.
+
+Sources for the sun scale: the scale is the one used in the PotsunGarden guide Balcony in 4 Weeks (2nd edition) and the free Week 1 PDF; the "full sun" (6+ hours) and "partial shade" (4–6 hours) definitions are from:
+- University of Illinois Extension: Growing vegetables in containers: https://extension.illinois.edu/container-gardens/growing-vegetables-containers
