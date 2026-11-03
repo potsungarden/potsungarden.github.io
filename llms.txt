@@ -6,11 +6,12 @@ PotsunGarden is a small publisher of beginner balcony gardening guides. The free
 
 ## Guides
 
-- [Pot sizes for vegetables on a balcony: a chart for 12 easy crops](https://potsungarden.github.io/pot-sizes-for-balcony-vegetables.html): Smallest pot, depth of potting mix, plants per pot and sun hours for 12 easy balcony crops, in litres and gallons, cm and inches. Plus drainage and weight tips.
+- [Pot sizes for vegetables on a balcony: a chart for 12 easy crops](https://potsungarden.github.io/pot-sizes-for-balcony-vegetables.html): Smallest pot, mix depth, plants per pot and sun hours for 12 easy balcony crops, in litres and gallons, cm and inches, plus drainage and weight tips.
 - [How many hours of sun does your balcony get, and what can you grow?](https://potsungarden.github.io/balcony-sun-hours-what-to-grow.html): Count the hours of direct sun on your balcony in two days, then match crops to it: what grows with 6+, 4–6, 3–4 or under 3 hours of sun.
 - [Growing lettuce in pots: cut-and-come-again salad on a balcony](https://potsungarden.github.io/growing-lettuce-in-pots.html): How to sow, water and cut loose-leaf lettuce in pots so it regrows for more salad: pot size, sun, timing, bolting and slug fixes for balcony growers.
-- [Winter vegetables in pots: six easy crops for an autumn and winter balcony](https://potsungarden.github.io/winter-vegetables-in-pots.html): Rocket, lettuce, radishes, spinach, mizuna and pea shoots: what to sow in autumn for winter salads in pots, plus watering, frost and what to expect in December.
-- [Container gardening for beginners: your first 7 days](https://potsungarden.github.io/container-gardening-for-beginners-first-7-days.html): A calm first week for a new balcony garden: map your sun, find your frost date, choose 4–6 crops, buy the right pots and mix, and fill them. One task a day.
+- [Winter vegetables in pots: six easy crops for an autumn and winter balcony](https://potsungarden.github.io/winter-vegetables-in-pots.html): Rocket, lettuce, radishes, spinach, mizuna and pea shoots: what to sow in autumn for winter salads in pots, plus watering, frost and what to expect.
+- [Container gardening for beginners: your first 7 days](https://potsungarden.github.io/container-gardening-for-beginners-first-7-days.html): A calm first week for a new balcony garden: map your sun, find your frost date, choose 4–6 crops, buy pots and mix, and fill them. One task a day.
+- [What vegetables can you grow on a north-facing balcony?](https://potsungarden.github.io/vegetables-north-facing-balcony.html): A north-facing balcony can still grow food: leafy greens, herbs and quick crops for 0–4 hours of sun, what to skip, and how to find more light.
 
 ## Products
 
@@ -24,5 +25,4 @@ PotsunGarden is a small publisher of beginner balcony gardening guides. The free
 ## Optional
 
 - [About PotsunGarden](https://potsungarden.github.io/about.html): what PotsunGarden makes and how the guides are written.
-- [Payhip store](https://payhip.com/PotsunGarden): all products.
 - [Pinterest](https://www.pinterest.com/potsungarden/)

@@ -74,3 +74,4 @@ figcaption{font-size:.85rem;color:var(--muted);margin-top:.4rem}
 @media(max-width:30rem){nav a{margin-left:.7rem;font-size:.92rem}}
 @media print{.site-header,.site-footer,.cta,.more{display:none}}
 .hero-ctas{display:flex;flex-wrap:wrap;gap:.75rem}
+.preview.wide{max-width:100%}

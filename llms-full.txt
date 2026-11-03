@@ -2,7 +2,7 @@
 
 > Printable PDF guides for growing food in pots on a balcony, terrace or windowsill, for complete beginners in any climate (mild, temperate, cold winters; both hemispheres). Metric and imperial units. Growing advice is checked against the RHS and university extension services; each guide page lists its sources.
 
-Plain-text copy of the reference tables on https://potsungarden.github.io/pot-sizes-for-balcony-vegetables.html and https://potsungarden.github.io/balcony-sun-hours-what-to-grow.html. Last updated 2026-11-02.
+Plain-text copy of the reference tables on https://potsungarden.github.io/pot-sizes-for-balcony-vegetables.html and https://potsungarden.github.io/balcony-sun-hours-what-to-grow.html, plus key facts from https://potsungarden.github.io/vegetables-north-facing-balcony.html. Last updated 2026-11-03.
 
 ## Minimum pot size per crop
 
@@ -38,3 +38,12 @@ Rule of thumb: fruiting crops (tomatoes, chillies, beans) need 6 hours of direct
 
 Sources for the sun scale: the scale is the one used in the PotsunGarden guide Balcony in 4 Weeks (2nd edition) and the free Week 1 PDF; the "full sun" (6+ hours) and "partial shade" (4–6 hours) definitions are from:
 - University of Illinois Extension: Growing vegetables in containers: https://extension.illinois.edu/container-gardens/growing-vegetables-containers
+
+## North-facing balconies (northern hemisphere)
+
+From https://potsungarden.github.io/vegetables-north-facing-balcony.html:
+- Grows: loose-leaf lettuce, rocket (arugula), spinach, mizuna, mustard greens, pak choi picked young, parsley, chives, mint; pea shoots on a windowsill. With 3-4 hours of direct sun, also radishes and spring onions.
+- Skip: tomatoes, chillies and peppers, beans, courgettes (zucchini), aubergines (eggplant), basil (about 6+ hours of sun).
+- Summer sun (PotsunGarden calculation with the NOAA solar position equations, open wall facing due north, about 41 N and 51.5 N): on 21 June the sun is on the north side for about 3.5 hours after sunrise and 3.5 hours before sunset, low and from the side; about 3 hours a day in late April and late August.
+- Winter sun: none on a due-north wall between the September and March equinoxes.
+- Southern hemisphere: reversed; north-facing is the sunny side.
